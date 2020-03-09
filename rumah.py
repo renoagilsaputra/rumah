@@ -232,7 +232,7 @@ def main():
     glutInitDisplayMode(GLUT_SINGLE|GLUT_RGB)
     glutInitWindowSize(800,800)
     glutInitWindowPosition(10,10)
-    glutCreateWindow("Tugas 2")
+    glutCreateWindow("Rumah")
     glutDisplayFunc(ploting)
     
 
