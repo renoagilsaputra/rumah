@@ -4,4 +4,4 @@
 -PyOpenGL-accelerate                          3.1.3b2
 # Output
 
-![alt text](https://github.com/renoagilsaputra/rumah/blob/master/output/Screenshot_6.png "Output")
+![alt text](https://github.com/renoagilsaputra/rumah/blob/master/output/output.png "Output")
